@@ -1,12 +1,3 @@
-<!-- GitHub Timeline Embed -->
-<div id="gh-timeline"></div>
-<script src="https://www.githubtimeline.com/embed.js"
-        data-key="ght_b58dpMmni5mfdBD8vidJ_cFTXFgOlsKJ"
-        data-view="active"
-        data-theme="auto"
-        data-mode="interactive">
-</script>
-
 ![GitHub Timeline](https://www.githubtimeline.com/api/embed/svg/ght_b58dpMmni5mfdBD8vidJ_cFTXFgOlsKJ?view=active&theme=dark)
 
 <!-- Optional parameters:
